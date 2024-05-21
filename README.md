@@ -1,2 +1,2 @@
-# RCON Library for RCON Enabled Servers
+# ManiaticDev's RCON Client Connection Library (MDRCCL)
 RCON Library
