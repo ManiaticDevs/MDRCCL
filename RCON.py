@@ -88,5 +88,5 @@ class RCON:
 
 # Usage example:
 if __name__ == "__main__":
-    with RCONClient('localhost', 27020, '12345') as rcon_client:
+    with RCON('localhost', 27020, '12345') as rcon_client:
         rcon_client.command('listplayers')
